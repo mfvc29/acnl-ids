@@ -1,0 +1,29 @@
+{
+  "name": "Catálogo de IDs ACNL",
+  "short_name": "IDs ACNL",
+  "description": "Códigos hex de objetos de Animal Crossing: New Leaf – Welcome amiibo",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EDF4E4",
+  "theme_color": "#2F8A42",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
